@@ -1,3 +1,9 @@
+![Visits Badge](https://badges.pufler.dev/visits/bshongwe/gke-pipeline-using-cloud-build)
+![GitHub Repo Stars](https://img.shields.io/github/stars/bshongwe/gke-pipeline-using-cloud-build)
+![GitHub Forks](https://img.shields.io/github/forks/bshongwe/gke-pipeline-using-cloud-build)
+![GitHub Issues](https://img.shields.io/github/issues/bshongwe/gke-pipeline-using-cloud-build)
+![GitHub License](https://img.shields.io/github/license/bshongwe/gke-pipeline-using-cloud-build)
+
 # GitOps-style Continuous Delivery For Kubernetes Engine With Cloud Build
 
 This repository contains the code used in the
